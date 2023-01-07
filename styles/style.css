@@ -2,6 +2,10 @@
     filter: grayscale(50%);
 }
 
+.list li{
+    list-style: none;
+}
+
 @media screen and (max-width: 768px){
     .full-img{
         width: 100%;
