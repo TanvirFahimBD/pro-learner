@@ -1,11 +1,21 @@
+/* google font link  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* header style  */
 .img-gray{
     filter: grayscale(50%);
 }
 
+/* footer style  */
 .list li{
     list-style: none;
 }
 
+/* courses responsive style  */
 @media screen and (max-width: 768px){
     .full-img{
         width: 100%;
